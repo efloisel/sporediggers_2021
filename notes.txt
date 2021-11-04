@@ -1,0 +1,51 @@
+notes!
+  gonna make some notes here!
+  brainstorm, what's another idea for that shit????
+  scheduler
+  game
+  suffering
+  meds
+  straight up fucking picrew
+  thoughts, what's up bitches. This sounds fun and shit. 
+  I wanna do the canvas calendar but better.
+  DONT FORGET ABOUT FLEX ORDER
+  don't accidentally get joined into a team w/ other people.
+
+MISSION
+  - A Tumblr-aestetic calendar
+  - It's that gooooooood shit
+  - it's just a thing for me, and what I do
+  - a pretty calendar app
+  
+FIRST STEP
+  - show a calendar that you can add tasks to
+  - save that calendar (how and where exactly am I saving to?
+    - should the final thing be deployed? let's go with no
+  
+IDEAS
+  - tasks are labled by color and pattern
+  - tasks can count up automatically?
+  - color scheme
+    - white and pastelle
+    - black and neon
+    - grayscale
+  - interactive tasks, check them off
+  - reminders (to desktop or just to website)
+  - if the date passes, then ask them what they want to do with that shit
+  - set up task groups
+    - groups contain tasks, but arent necessecary
+    - they have default task settings
+  - profile can have preferences
+  - colorblind mode
+  - make ADA friendly
+  - make HUGE
+  - VECTORS
+  
+TECH
+  - front end
+    - angular
+  - back end
+    - node.js, runs the server
+    - next.js builds on top of react
+    - medium: How to develop and build angular app with node.js
+  - javascript full calendar, fullcalendar.io
